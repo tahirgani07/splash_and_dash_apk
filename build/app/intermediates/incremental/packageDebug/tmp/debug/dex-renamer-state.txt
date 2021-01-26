@@ -1,0 +1,7 @@
+#Tue Jan 26 19:35:59 IST 2021
+base.0=D\:\\Programs\\FlutterProjects\\splash_and_dash_apk\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Programs\\FlutterProjects\\splash_and_dash_apk\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex

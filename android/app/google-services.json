@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56806682822",
+    "project_id": "splash-and-dash",
+    "storage_bucket": "splash-and-dash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56806682822:android:e6d4bb104d3008208ca7c7",
+        "android_client_info": {
+          "package_name": "com.splashanddash.splash_and_dash_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56806682822-pup6jfg68fu81ne7ov6ef7oi6irm20du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splashanddash.splash_and_dash_apk",
+            "certificate_hash": "0f10294d3cc9e076a3f1a4414a3c227b05947edf"
+          }
+        },
+        {
+          "client_id": "56806682822-q396d5bf7gg6gkhaqdusbgpiaa07ivcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqMypNo4V0YQzBGS9Eek9KvfTtc3vbAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56806682822-q396d5bf7gg6gkhaqdusbgpiaa07ivcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

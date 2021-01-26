@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.splashanddash.splash_and_dash_apk",
+  "variantName": "debug",
+  "elements": []
+}

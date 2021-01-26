@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/splashanddash/splash_and_dash_apk/BuildConfig.java
+ com.splashanddash.splash_and_dash_apk.BuildConfig
